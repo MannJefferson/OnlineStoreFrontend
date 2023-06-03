@@ -1,131 +1,131 @@
 const products = [
     {
       id: 0,
-      name: "P-station 1",
+      name: "EcoFlow DELTA",
       price: 65000,
       instock: 20,
       description:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, error.",
+        "EcoFlow DELTA Portable Power Station - Power your essential devices.",
       imgSrc: "./img/port1.jpg",
     },
     {
       id: 1,
-      name: "P-station 2",
+      name: "Romoss Thunder 300W",
       price: 8000,
       instock: 50,
       description:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, error.",
+        "The RS300 is a compact and portable power station that can power small electronics and appliances.",
       imgSrc: "./img/port2.jpg",
     },
     {
       id: 2,
-      name: "P-station 3",
+      name: "Conti 500W portable carry power",
       price: 12000,
       instock: 15,
       description:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, error.",
+        "Stay connected during loadshedding. Ideal for office, home and camping.",
       imgSrc: "./img/port3.jpg",
     },
     {
       id: 3,
-      name: "P-station 4",
+      name: "Elecstor 300W Portable Power Station",
       price: 15990,
       instock: 5,
       description:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, error.",
+        "Durable Portable Power Supply Station: Equipped with high capacity Lithium Battery pack.",
       imgSrc: "./img/port4.png",
     },
     {
       id: 4,
-      name: "P-station 5",
+      name: "Anker 521 Portable Power Station",
       price: 4500,
       instock: 15,
       description:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, error.",
+        "PowerHouse 521 can recharge multiple handheld devices, laptops, cameras.",
       imgSrc: "./img/port5.jpg",
     },
     {
       id: 5,
-      name: "P-station 6",
+      name: "bitByte 1500W Portable Power Station",
       price: 6000,
       instock: 30,
       description:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, error.",
+        "Convenient at home with on-board charging, convenient for car travel and outings..",
       imgSrc: "./img/port6.jpg",
     },
   
     {
       id: 6,
-      name: "generator 1",
+      name: "Honda - Inverter Generator",
       price: 12500,
       instock: 20,
       description:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, error.",
+        "The Honda EU22i inverter technology guarantees smooth, uninterrupted electricity.",
       imgSrc: "./img/gen1.jpeg",
     },
     {
       id: 7,
-      name: "generator 2",
+      name: "Total 6,5Kw Petrol Generator",
       price: 12500,
       instock: 5,
       description:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, error.",
+        "Continuous Operation Time.",
       imgSrc: "./img/gen2.jpeg",
     },
     {
       id: 8,
-      name: "generator 3",
+      name: "Trade Professional - TP 6000 4S",
       price: 14500,
       instock: 4,
       description:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, error.",
+        "MCOG706EW 25L Fuel tank runs for 10 HOURS.",
       imgSrc: "./img/gen3.jpeg",
     },
     {
       id: 9,
-      name: "generator 14",
+      name: "Ecco 7KW/8.75KVA Silent Single ",
       price: 35000,
       instock: 40,
       description:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, error.",
+        "Silent , Economical and Powerful.",
       imgSrc: "./img/gen4.jpg",
     },
   
     
     {
       id: 10,
-      name: "lights Rechargable",
+      name: "Blue Carbon Rechargeable LED",
       price: 19.99,
       instock: 10,
       description:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, error.",
+        "Keep Your Home Bright Consistently.",
       imgSrc: "./img/accessory1.jpg",
     },
     {
       id: 11,
-      name: "Lights",
+      name: "Rechargeable LED",
       price: 100,
       instock: 75,
       description:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, error.",
+        "18w usb rechargeable led light tube, emergency loadshedding light.",
       imgSrc: "./img/accessory2.jpg",
     },
     {
       id: 12,
-      name: "Gas Heater",
+      name: "Totai - Gas Heater",
       price: 2150,
       instock: 14,
       description:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, error.",
+        "Gas indoor Heater.",
       imgSrc: "./img/accessory3.jpg",
     },
     {
       id: 13,
-      name: "Gas Stove",
+      name: "High Heat Output Portable",
       price: 4500,
       instock: 40,
       description:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, error.",
+        "Safe and easy for hot pot, picnics, tailgating, parties and emergency backup.",
       imgSrc: "./img/accessory4.png",
     },
   

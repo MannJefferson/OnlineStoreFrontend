@@ -9,11 +9,11 @@ function renderProdcuts() {
   products.forEach((product) => {
     productsEl.innerHTML += `
             <div class="item">
-                <div class="item-container">
-                    <div class="item-img">
+                <div class="item-container mt-3 mb-3">
+                    <div class="item-img bt-3">
                         <img src="${product.imgSrc}" alt="${product.name}">
-                    </div>
-                    <div class="desc">
+                    </div> 
+                    <div class="desc mt-3">
                         <h2>${product.name}</h2>
                         <h2><small>R</small>${product.price}</h2>
                         <p>
@@ -25,8 +25,8 @@ function renderProdcuts() {
                     </div>
                     <div class="add-to-cart" onclick="addToCart(${product.id})">
                         <img src="./icons/bag-blue.png" alt="add to cart">
-                    </div>
-                </div>
+                    </div><br>
+                </div><br><br>
             </div>
         `;
   });
