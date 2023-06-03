@@ -6,7 +6,8 @@
   --bg-color: #fff;
   --link-color: #000;
   --link-size: 1.1rem;
-  --right-side-bg-color: 81, 187, 254;
+  /* --right-side-bg-color: 81, 187, 254; */
+   --right-side-bg-color: #AEC2B6; 
 }
 
 /* General CSS */
