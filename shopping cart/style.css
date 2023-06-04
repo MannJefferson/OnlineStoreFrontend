@@ -81,9 +81,9 @@ header nav ul li {
   padding: 5px 5px;
   border-radius: 15px;
 }
-header nav ul li.active {
+/* header nav ul li.active {
   border: 1px solid #000;
-}
+} */
 header nav ul li a {
   font-size: var(--link-size);
   display: flex;
